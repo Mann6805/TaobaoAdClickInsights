@@ -26,4 +26,4 @@ https://tianchi.aliyun.com/dataset/56
 
 ## Status
 
-This project is actively being developed and improved for more advanced analytics and modeling phases. Current focus is on EDA, pattern discovery, and preparing features for CTR prediction.
+The repository is currently being updated and documented to reflect the final structure and outputs.
