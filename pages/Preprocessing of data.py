@@ -191,7 +191,7 @@ st.markdown("""
 Below is the updated boxplot after removing extreme outliers. While a few red points are still visible, they fall within a reasonable range and no longer represent the extreme values that were previously distorting the distribution.
 """)
 
-st.image("graphs\price_boxplot_without_outliers.png", caption="Boxplot of Price Distribution (Without Extreme Outliers)", use_container_width =True)
+st.image("graphs/price_boxplot_without_outliers.png", caption="Boxplot of Price Distribution (Without Extreme Outliers)", use_container_width =True)
 
 st.subheader("Optimizing Data Types Before Imputation")
 
